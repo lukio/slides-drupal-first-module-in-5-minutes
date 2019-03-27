@@ -1,0 +1,132 @@
+#!/usr/bin/env pinpoint
+
+[bg.jpg]
+[font=Sans 50px]
+[duration=5.000000]
+
+-- 
+¡Bienvenidos!
+
+ ❥ BADUG (Grupo de Usuarios de Drupal Buenos Aires)
+
+-- [luchorossi.jpg]
+
+¿Quién Soy?
+
+ ❥ Lucho Rossi
+ ❥ Artista Plástico
+
+-- [lukio.jpg]
+
+¿Quién Soy?
+
+ ❥ Luciano Rossi
+ ❥ Desarrollador de Software (libre)
+   (https://www.drupal.org/u/lukio)
+
+-- [ayni.png]
+
+¿Quién Soy?
+
+ ❥ lukio
+ ❥ Cooperativista (de trabajo)
+   (http://gcoop.coop/codigos-cooperativos)
+
+--
+¿Qué es Drupal?
+
+-- [libres.png]
+Software Libre
+
+<i>"Seamos libres que lo demás no importa nada"</i>
+
+ ❥ usar
+ ❥ estudiar
+ ❥ distribuir
+ ❥ mejorar
+
+-- [camp-chile.jpg]
+Comunitario
+
+-- [drupalcon.jpg] [transition=page-curl-both] 
+Comunitario
+
+--
+¿CMS? o ¿Framework PHP?
+
+ • Manejador de contenidos
+ • Construye tu propio sitio dentro de Drupal
+ • API para desarrollar
+
+--
+Conceptos básicos de un drupalero
+
+ • Tipos de contenido
+ • Nodos
+ • Campos
+
+--
+Manos a la obra
+
+ • Objetivo: la web de la libreria de la esquina
+
+--
+Manos a la obra
+
+ • Instalar un drupal
+ • Usamos versión 7.x
+ • http://drupal.org/download
+
+--
+Modulos contrib
+
+ • Miles de módulos disponibles desde y libres.
+   ( https://www.drupal.org/project/project_module )
+
+ • Ej: admin_menu, views (8.x en el core)
+
+--
+Manos a la obra
+
+ • Crear tipos de contenido
+
+--
+Tipo de contenido Libro
+
+ • título - Texto
+ • resumen - Long Text
+ • tapa - Imagen
+ • autor - Referencia de Nodo
+ • género - Referencia de Termino
+ • isbn - ISBN
+
+--
+Tipo de contenido Autor
+
+ • nombre - Texto
+ • foto - Imagen
+
+--
+Manos a la obra
+
+ • Listado de Libros
+
+--
+Manos a la obra
+
+ • Detalle de libros
+
+--
+Manos a la obra
+
+ • Portada
+
+--
+Enlaces
+
+ • https://drupal.org
+ • https://api.drupal.org
+ • https://groups.drupal.org/buenos-aires-dug
+ • http://www.meetup.com/es/Buenos-Aires-Drupal-Meetup/
+
+-- [preguntas.png] [font=Sans 100px] [transition=spin-text]
